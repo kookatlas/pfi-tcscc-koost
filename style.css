@@ -1,0 +1,22 @@
+#home-p{
+    color: blueviolet;
+}
+
+#inline{
+    display: inline-block; /* or use display: inline */
+    margin-right: 1px; /* Optional: Adds spacing between links */
+}
+
+#center{
+    text-align: center;
+}
+
+#header-align{
+    text-align: center;
+    background-color: #FF7D29;
+    padding: 15px 0
+    
+}
+.weight{
+    font-weight: 200;
+}

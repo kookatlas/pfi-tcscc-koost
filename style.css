@@ -20,3 +20,29 @@
 .weight{
     font-weight: 200;
 }
+.about-p{
+    color: blue;
+    text-align: center;
+    background-color: antiquewhite;
+  }
+
+#lis{
+    list-style: none;
+    padding: 0PX;
+    margin: 0%;
+    text-align: left;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.outer-div{
+    background-color: #FF7D29;
+    padding: 10px;
+    text-align: center;
+}
+.inner-div{
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    border: 3px solid whitesmoke;
+}
